@@ -42,7 +42,7 @@ You can learn more in the <Create React App documentation>.
 To learn React, check out the React documentation.
 
 # Deployed
-* frontend : netlify: <>
+* frontend : netlify: <https://amazonclone-frontend.netlify.app/>
 
 * backend : heroku : <https://amazon-clone-challenge1.herokuapp.com/> 
 
