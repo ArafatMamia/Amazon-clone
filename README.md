@@ -41,5 +41,9 @@ You can learn more in the <Create React App documentation>.
 
 To learn React, check out the React documentation.
 
+# Deployed
+* frontend : netlify: <>
+
+* backend : heroku : <https://amazon-clone-challenge1.herokuapp.com/> 
 
 # by Arafat Mamia email: <arafmamia@gmail.com>
