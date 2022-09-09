@@ -1,0 +1,74 @@
+.addProduct{
+    background-color: white;
+    height: 100vh;
+}
+.addProduct__container{
+  width: 40%;
+  min-width: 450px;
+  height: fit-content;
+  padding: 15px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container__Logo{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  object-fit: contain;
+  width: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.container__logo img {
+    width: 100%;
+  }
+
+.container__formContainer{
+  border: 1px solid lightgray;
+  width: 55%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+}
+.container__formContainer h3 {
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 33px;
+    align-self: flex-start;
+    margin-bottom: 10px;
+  }
+
+.container__inputContainer{
+  width: 100%;
+  padding: 10px;
+}
+.container__inputContainer  p {
+    font-size: 14px;
+    font-weight: 600;
+  }
+.container__inputContainer input {
+    width: 95%;
+    height: 33px;
+    padding-left: 5px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    margin-top: 5px;
+}
+.container__inputContainer input:hover {
+      border: 1px solid orange;
+    }
+
+button{
+  width: 70%;
+  height: 35px;
+  background-color: #f3b414;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  margin-top: 30px;
+}

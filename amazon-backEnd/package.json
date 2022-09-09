@@ -1,0 +1,18 @@
+{
+  "name": "amazon-backend",
+  "version": "1.0.0",
+  "description": "Amazon backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Arafat Mamia",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4",
+    "stripe": "^10.8.0"
+  }
+}
