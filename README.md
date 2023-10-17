@@ -1,9 +1,9 @@
 # This is Amazon clone build for Alx final project
-# Language used
-* React
-* Express.js
-* Mongodb
-* firebase
+## Language used
+-  React
+- Express.js
+- Mongodb
+- firebase
 # Scripts
 ## In the project directory, you can run:
 
